@@ -1,2 +1,2 @@
 # Michael Dimitriadis
-### This is a <h3> header
+### This is a \<h3\> header
