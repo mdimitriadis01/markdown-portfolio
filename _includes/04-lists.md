@@ -1,4 +1,4 @@
 * chess
 * soccer
   * Bundesliga
-  * 1. Klasse Ost 
+  * 1\. Klasse Ost 
